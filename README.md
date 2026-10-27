@@ -31,40 +31,40 @@ This project is a working fix for exactly that problem.
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/GA Landing Page.png)
+![Landing Page](./GA%20Landing%20Page.png)
 
 ### Add New Product Form
-![Add New Product Form](screenshots/GA Add New Product Form.png)
+![Add New Product Form](./GA%20Add%20New%20Product%20Form.png)
 
 ### Database Product Sheet
-![Database Product Sheet](screenshots/GA Database Product Sheet.png)
+![Database Product Sheet](./GA%20Database%20Product%20Sheet.png)
 
 ### Record Purchase Form
-![Record Purchase Form](screenshots/GA Record Purchase Form.png)
+![Record Purchase Form](./GA%20Record%20Purchase%20Form.png)
 
 ### Purchase Saved Pop Up
-![Purchase Saved Pop Up](screenshots/GA Purchase Saved Pop up.png)
+![Purchase Saved Pop Up](./GA%20Purchase%20Saved%20Pop%20up.png)
 
 ### Purchases Sheet
-![Purchases Sheet](screenshots/GA Purchases Sheet.png)
+![Purchases Sheet](./GA%20Purchases%20Sheet.png)
 
 ### Record Sale Form
-![Record Sale Form](screenshots/GA Record Sale Form.png)
+![Record Sale Form](./GA%20Record%20Sale%20Form.png)
 
 ### Invalid Sale Price Pop Up
-![Invalid Sale Price Pop Up](screenshots/GA Invalid Sale price Pop up.png)
+![Invalid Sale Price Pop Up](./GA%20Invalid%20Sale%20price%20Pop%20up.png)
 
 ### Remaining Stock Pop Up
-![Remaining Stock Pop Up](screenshots/GA Remaining Stock Pop up.png)
+![Remaining Stock Pop Up](./GA%20Remaining%20Stock%20Pop%20up.png)
 
 ### Sales Sheet
-![Sales Sheet](screenshots/GA Sales Sheet.png)
+![Sales Sheet](./GA%20Sales%20Sheet.png)
 
 ### Inventory Sheet
-![Inventory Sheet](screenshots/GA Inventory Sheet.png)
+![Inventory Sheet](./GA%20Inventory%20Sheet.png)
 
 ### Dashboard Sheet
-![Dashboard Sheet](screenshots/GA Dashboard Sheet.png)
+![Dashboard Sheet](./GA%20Dashboard%20Sheet.png)
 
 ---
 
